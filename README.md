@@ -47,7 +47,7 @@ Whether you're a student, professional, senior citizen, or someone who simply pr
 Download Alnova News today and enjoy a clean, fast, and reliable way to stay informed — without ads, without accounts, and without limits.
 
 # Download App
-[![Letest_version](https://img.shields.io/github/v/release/sahariyarahamad/alnova_news_app)](https://github.com/sahariyarahamad/alnova_news_app/releases) <br>
+[![Letest_version](https://img.shields.io/github/v/release/sahariyarahamad/alnova-news-app)](https://github.com/sahariyarahamad/alnova-news-app/releases) <br>
 Download letest version -> [Download]() 
 
 # Author
