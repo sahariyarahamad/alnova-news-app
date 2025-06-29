@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/sahariyarahamad/sahariyarhost/refs/heads/main/alnova_news/alnova_news_mockup/Al_nova_news_logo.png" width="200px" height="200px"/>
+</p>
+
+
 # Alnova News
 Alnova News – Your Minimal, Fast & Ad-Free News App
 Alnova News is a simple, lightweight, and clean news reader app designed for users who want to stay informed without unnecessary distractions. Whether you're looking for local headlines, international news, or trending stories, Alnova News keeps you connected with what matters — without ads, without accounts, and without complexity.
@@ -29,9 +34,24 @@ Alnova News comes with an optional built-in update checker, ensuring you’re al
 - **Designed for Everyone**:
 Whether you're a student, professional, senior citizen, or someone who simply prefers to stay informed — Alnova News is made for you. It doesn't matter where you're from or what you care about — our app keeps you connected to information that matters, presented in a friendly and accessible way.
 
+# Screen Shorts
+| Screen Shorts |
+|----|
+| <img src="https://raw.githubusercontent.com/sahariyarahamad/sahariyarhost/refs/heads/main/alnova_news/alnova_news_mockup/home_1.png" alt="home screen" height="300"/> <img src="https://raw.githubusercontent.com/sahariyarahamad/sahariyarhost/refs/heads/main/alnova_news/alnova_news_mockup/news_2.png" alt="home screen" height="300"/> <img src="https://raw.githubusercontent.com/sahariyarahamad/sahariyarhost/refs/heads/main/alnova_news/alnova_news_mockup/language_3.png" alt="home screen" height="300"/> <img src="https://raw.githubusercontent.com/sahariyarahamad/sahariyarhost/refs/heads/main/alnova_news/alnova_news_mockup/theme_4.png" alt="home screen" height="300"/> |
+
 # Future Features (Coming Soon):
 - Bookmark news
 - Region-wise or category-wise news filters
 - Notification alerts for breaking news
 
 Download Alnova News today and enjoy a clean, fast, and reliable way to stay informed — without ads, without accounts, and without limits.
+
+# Download App
+[![Letest_version](https://img.shields.io/github/v/release/sahariyarahamad/alnova_news_app)](https://github.com/sahariyarahamad/alnova_news_app/releases) <br>
+Download letest version -> [Download]() 
+
+# Author
+
+This Software made & maintaining by [Sahariyar Ahamad](https://github.com/sahariyarahamad/)
+
+Copyright (c) 2025 - Present by [Sahariyar Ahamad](https://www.github.com/sahariyarahamad) All rights reserved.
