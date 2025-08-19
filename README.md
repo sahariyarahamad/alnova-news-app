@@ -48,7 +48,7 @@ Download Alnova News today and enjoy a clean, fast, and reliable way to stay inf
 
 # Download App
 [![Letest_version](https://img.shields.io/github/v/release/sahariyarahamad/alnova-news-app)](https://github.com/sahariyarahamad/alnova-news-app/releases) <br>
-Download letest version -> [Download](https://github.com/sahariyarahamad/alnova-news-app/releases/download/v1.0/Alnova_News.apk)
+Download letest version -> [Download](https://github.com/sahariyarahamad/alnova-news-app/releases/download/v1.0/Alnova_News.apk) <br>
 Download from APK Pure app store -> [Download](https://apkpure.com/alnova-news/com.sahariyar.alnovanews)
 
 # Author
